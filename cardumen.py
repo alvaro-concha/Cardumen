@@ -157,20 +157,16 @@ class Cardumen:
 			plt.show()
 		plt.close()
 
-def ej13():
+def run_cardumen():
 	"""
-	Ejercicio 13
+	Run simulation of the school of fish
 	"""
 	c = Cardumen(N)
 	c.initialize(M,maxVel,maxDist)
 	for i in range(nIter):
 		print(f"Iteration number: {i}")
-		# if i%10==0:
-		# 	c.printCardumen(True,True)
-		# else:
-		# 	c.printCardumen(True,False)
 		c.printCardumen(True,False)
 		c.doStep()
 		
 
-ej13()
+run_cardumen()
