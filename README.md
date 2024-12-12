@@ -1,8 +1,6 @@
 # Cardumen
 
-<div align="center">
-    <img src="confusion-matrix.png" alt="Confusion Matrix" width="30%" style="background-color: white;">
-</div>
+<img src="cardumen.gif" alt="Cardumen Animation" width="30%">
 
 ## Overview
 
