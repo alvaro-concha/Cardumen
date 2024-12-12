@@ -1,6 +1,8 @@
 # Cardumen
 
-<img src="cardumen.gif" alt="Cardumen Animation" width="30%">
+<div align="center">
+  <img src="cardumen.gif" alt="Cardumen Animation" width="30%">
+</div>
 
 ## Overview
 
